@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/trip1.jpg",
+        "alt": "Brown Wooden Plank",
+        "name": "Brown Wooden Plank",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip2.jpg",
+        "alt": "Aerial View of Mountain",
+        "name": "Aerial View of Mountain",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip4.jpg",
+        "alt": "Grey Long-sleeved",
+        "name": "Grey Long-sleeved",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/trip5.jpg",
+        "alt": "Moraine Lake, Canada",
+        "name": "Moraine Lake, Canada",
+        "button": "View Destination"
+    }
+]
